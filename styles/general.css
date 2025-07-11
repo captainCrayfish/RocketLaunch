@@ -1,0 +1,16 @@
+html {
+    background: rgb(50, 50, 50);
+    margin: 0;
+    padding: 0;
+    /* height: 100%; */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    /* height: 100%; */
+}
+
+.logo-3 {
+    height: 100px;
+}
